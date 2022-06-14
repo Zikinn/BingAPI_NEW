@@ -1,0 +1,2 @@
+# BingAPI_NEW
+利用GithubAction爬取Bing每日一图，本仓库内所有文件禁止用于商业用途
